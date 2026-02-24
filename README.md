@@ -71,7 +71,7 @@ An MIT report in July 2025 found that 95% of generative AI pilots fail to achiev
 
 ## Prompt to run this against 401(K) your 401(k) every 6 months
  - Directions: Replace {copy and paste in your 401k page showing the current allocation and all available options} with **YOUR** actual data
- - 
+ 
 ```
 Review the impact that AI has had on major sectors the stock market in the last 6 months and what impact it'll probably have in the next 5 years. Based on those results, review my current 401k {investment options} and their associated values, then provide a better allocation for the next year. I'll ask you again for this same update every 6 months to ensure things are on track.
 
