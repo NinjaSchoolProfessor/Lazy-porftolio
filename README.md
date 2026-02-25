@@ -1,6 +1,18 @@
+
 # 📘 Lazy portfolio
 > [!NOTE]
 > **Disclaimer** The following outlines investments and the tools I use for my own research and education. I’m sharing this for educational purposes only. It’s not financial, investment, legal, or tax advice, nor a recommendation to buy or sell anything. Always double-check any information yourself, as it might not be accurate. Past results don’t guarantee future ones, and investing involves risks. For advice tailored to your situation, consult a licensed financial or tax professional.
+
+
+<a id="toc"></a>
+## Table of Contents
+1. [Lazy Trend ETF Portfolio (Late 2025 -> Mid 2026)](#https://github.com/NinjaSchoolProfessor/Lazy-porftolio/edit/main/README.md#lazy-trend-etf-portfolio-late-2025---mid-2026)
+2. [Executive Summary](#https://github.com/NinjaSchoolProfessor/Lazy-porftolio/edit/main/README.md#executive-summary)
+3. [5-Year Forward Outlook (2026-2031)](#https://github.com/NinjaSchoolProfessor/Lazy-porftolio/edit/main/README.md#5-year-forward-outlook-2026-2031)
+4. [Prompt to run this against 401(K) your 401(k) every 6 months](#https://github.com/NinjaSchoolProfessor/Lazy-porftolio/edit/main/README.md#prompt-to-run-this-against-401k-your-401k-every-6-months)
+
+
+
 
 ---
 
@@ -28,6 +40,8 @@ This is a “lazy trend” portfolio that aims to capture the next leg of the AI
 | CIBR | 2% | Cybersecurity | Cybersecurity exposure tied to a thematic index. A durable spend category (defense and compliance) that also benefits from AI-driven attack/defense escalation and enterprise modernization. Fund page: [First Trust CIBR](https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=CIBR) |
 | IBIT | 1% | Spot bitcoin sleeve | Seeks to reflect the price of bitcoin. High volatility, potentially strong upside in liquidity-driven regimes. Sized small here as an asymmetric “optional” exposure. Fund page: [iShares IBIT](https://www.ishares.com/us/products/333011/ishares-bitcoin-trust-etf) |
 | AMLP | 1% | Energy pipelines and midstream cashflows | Midstream MLP exposure focused on energy infrastructure (transport, storage, processing). AMLP is structured to simplify investor tax reporting versus owning MLPs directly, but its structure can create a tax-related performance drag versus a pre-tax index. Fund page: [ALPS AMLP](https://www.alpsfunds.com/exchange-traded-funds/amlp) |
+ 
+[⬆️ Back to top](#toc)
 
 ---
 
@@ -55,6 +69,8 @@ The small-cap S&P 600 is projected to deliver 19-21% earnings growth in 2026, we
 ### International Equities
 2025 was the first year since 2017 where both developed and emerging market stocks outperformed the S&P 500. International equities still trade at significant relative discounts despite strong momentum. Growth overseas is expected to rebound further, fueled by fiscal spending, accommodative monetary policy, and U.S. dollar weakness. Emerging markets are key players in the global AI race — China's Alibaba Qwen3-Max model now competes with leading U.S. models.
 
+[⬆️ Back to top](#toc)
+
 ## 5-Year Forward Outlook (2026-2031)
 
 ### AI Capex Cycle & Revenue Monetization
@@ -66,6 +82,7 @@ PwC estimates AI could expand global GDP by nearly 15% by 2035, adding more than
 ### Key Risks
 An MIT report in July 2025 found that 95% of generative AI pilots fail to achieve measurable P&L impact. The AI builders are leveraging up — investment is front-loaded while revenues are back-loaded, creating a more levered financial system vulnerable to shocks. Valuations for mega-cap tech remain stretched; the S&P 500's equity risk premium hit just 0.02%, among the lowest on record. A capex slowdown or revenue disappointment could trigger significant volatility in AI-adjacent names.
 
+[⬆️ Back to top](#toc)
 ---
 
 ## Prompt to run this against 401(K) your 401(k) every 6 months
@@ -79,3 +96,5 @@ In the results provide me with a table showing the full name of the fund along w
 ## Investment options
 {copy and paste in your 401k page showing the current allocation and all available options }
 ```
+
+[⬆️ Back to top](#toc)
